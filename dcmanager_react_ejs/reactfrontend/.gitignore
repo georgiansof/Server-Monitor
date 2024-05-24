@@ -1,7 +1,3 @@
-dcmanager_react_js/node_modules
-dcmanager_react_js/ejsbackend/node_modules
-dcmanager_react_js/ejsbackend/bin
-dcmanager_react_js/reactfrontend/node_modules
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -25,4 +21,3 @@ dcmanager_react_js/reactfrontend/node_modules
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
